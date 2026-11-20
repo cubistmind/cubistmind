@@ -41,6 +41,24 @@ I prefer imagination over imitation, exploration over instructions, and creating
 
 **Think independently. Experiment relentlessly. Build differently.**
 
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="mailto:cubistmind@proton.me">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/c_ubistmind_">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/manjurul-elahi-tanjil-805592387">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/cubistmind">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
