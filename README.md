@@ -26,13 +26,6 @@
 - 🖥️ **Hardware:** FPGA Exploration, Digital Electronics
 - 🎨 **Creative:** Imagination, 3D Design, Blender, CGI
 
-## 🚀 Things I've Built
-
-🧠 **RV32I Single-Cycle Processor** — A 32-bit RISC-V processor built from scratch.
-
-⚡ **RV32I 5-Stage Pipelined Processor** — Featuring data forwarding, hazard detection, stalls and branch handling.
-
-🔌 **USB-to-Serial UART Converter** — A custom FT232RL-based PCB designed in KiCad.
 
 ## 🌌 Current Mood
 
